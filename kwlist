@@ -1,0 +1,3 @@
+from keyword import kwlist
+for i in kwlist:
+	print(i)
